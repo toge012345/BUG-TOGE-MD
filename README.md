@@ -1,4 +1,4 @@
-***BUG-BOT**
+**BUG-BOT**
   </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo">
@@ -6,7 +6,7 @@
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
-<h1 align="center"> 𝗧𝗢𝗚𝗘-𝗠𝗗 </h1>
+<h1 align="center"> 𝗧𝗢𝗚𝗘-𝗕𝗨𝗚-𝗠𝗗 </h1>
 </h1>
 <p align="center"> 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐛𝐨𝐧𝐝 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 👇
 <p align="center"> 
@@ -18,8 +18,8 @@
 ### **ALERTE ⚠️**
 please add the cred.json file to the session folder
 
- ### ℹ️ **ABOUT TOGE-MD**
- Introducing TOGE-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ ### ℹ️ **ABOUT 𝗧𝗢𝗚𝗘-𝗕𝗨𝗚-𝗠𝗗**
+ Introducing 𝗧𝗢𝗚𝗘-𝗕𝗨𝗚-𝗠𝗗, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
 `🕯ＦＥＡＴＵＲＥＳ🕯`
@@ -80,7 +80,7 @@ please add the cred.json file to the session folder
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/toge012345/TOGE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/toge012345/TOGE-BUG-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO RAILWAY
 
