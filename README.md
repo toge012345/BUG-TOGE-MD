@@ -36,7 +36,7 @@ please add the cred.json file to the session folder
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/toge012345/TOGE-MD/fork)***
+2. ***Click [FORK](https://github.com/toge012345/BUG-TOGE-MD/fork)***
 3. ***[PAIR-CODE](https://toge-md-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
     <br>
     
