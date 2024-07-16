@@ -2275,111 +2275,112 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `Hello ${pushname}
-╰┈➤ ${xeonytimewisher} 😄
-${readmore}
-╰┈➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
-> xandroid 
-> xandroid2
-> systemuicrash
-> xsysui
+*∆ TOGE BUG ALL MENU*
 
-╰┈➤ ʙᴜɢ ɪᴏꜱ
-> xios
-> xios2
-
-╰┈➤ ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ
-> xgc
-
-╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-> getsession
-> deletesession
-> join
-> shutdown  
-> restart
-> autoread *[option]*
-> autotyping *[option]*
-> autorecording *[option]*
-> autorecordtyp *[option]*
-> autobio *[option]*
-> autoswview *[option]*
-> mode *[option]*
-> block
-> unblock 
-> backup
-> getcase
-> addowner
-> delowner
-
-╰┈➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-> closetime
-> opentime
-> kick
-> add
-> promote
-> demote
-> setdesc
-> setppgc
-> tagall
-> hidetag
-> totag
-> group *[option]*
-> editinfo
-> linkgc
-> revoke
-> listonline
-
-╰┈➤ ᴍᴀɪɴ ᴍᴇɴᴜ
-> menu
-> buypremium
-> runtime
-> script
-> donate
-> owner
-
-╰┈➤ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
-> sticker
-> smeme
-> take
-> toimage
-> tovideo
-> toaudio
-> tomp3
-> tovn
-> togif
-> tourl
-> toqr
-> toviewonce
-> fliptext
-> emojimix
-
-╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
-> addvideo
-> addimage
-> addsticker
-> addvn
-> addzip
-> addapk
-> addpdf
-> delvideo
-> delimage
-> delsticker
-> delvn
-> delzip
-> delapk
-> delpdf
-> listvideo
-> listimage
-> liststicker
-> listvn
-> listzip
-> listapk
-> listpdf
-
-╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
-> play
-> ytmp3
-> ytmp4
-> sound1 - sound161`
+╭––『 ʙᴜɢ ᴀɴᴅʀᴏɪᴅ 』
+┆❏ xandroid 
+┆❏ xandroid2
+┆❏ systemuicrash
+┆❏ xsysui
+╰–––––––––––––––༓
+╭––『 ʙᴜɢ ɪᴏꜱ 』
+┆❏ xios
+┆❏ xios2
+╰–––––––––––––––༓
+╭––『 ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ 』
+┆❏ CGV 
+╰–––––––––––––––༓
+╭––『 ᴏᴡɴᴇʀ ᴍᴇɴᴜ 』
+┆❏ getsession
+┆❏ deletesession
+┆❏ join
+┆❏ shutdown  
+┆❏ restart
+┆❏ autoread *[option]*
+┆❏ autotyping *[option]*
+┆❏ autorecording *[option]*
+┆❏ autorecordtyp *[option]*
+┆❏ autobio *[option]*
+┆❏ autoswview *[option]*
+┆❏ mode *[option]*
+┆❏ block
+┆❏ unblock 
+┆❏ backup
+┆❏ getcase
+┆❏ addowner
+┆❏ delowner
+╰–––––––––––––––༓
+╭––『 ɢʀᴏᴜᴘ ᴍᴇɴᴜ 』
+┆❏ closetime
+┆❏ opentime
+┆❏ kick
+┆❏ add
+┆❏ promote
+┆❏ demote
+┆❏ setdesc
+┆❏ setppgc
+┆❏ tagall
+┆❏ hidetag
+┆❏ totag
+┆❏ group *[option]*
+┆❏ editinfo
+┆❏ linkgc
+┆❏ revoke
+┆❏ listonline
+╰–––––––––––––––༓
+╭––『 ᴍᴀɪɴ ᴍᴇɴᴜ 』
+┆❏ menu
+┆❏ buypremium
+┆❏ runtime
+┆❏ script
+┆❏ donate
+┆❏ owner
+╰–––––––––––––––༓
+╭––『 ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ 』
+┆❏ sticker
+┆❏ smeme
+┆❏ take
+┆❏ toimage
+┆❏ tovideo
+┆❏ toaudio
+┆❏ tomp3
+┆❏ tovn
+┆❏ togif
+┆❏ tourl
+┆❏ toqr
+┆❏ toviewonce
+┆❏ fliptext
+┆❏ emojimix
+╰–––––––––––––––༓
+╭––『 ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ 』
+┆❏ addvideo
+┆❏ addimage
+┆❏ addsticker
+┆❏ addvn
+┆❏ addzip
+┆❏ addapk
+┆❏ addpdf
+┆❏ delvideo
+┆❏ delimage
+┆❏ delsticker
+┆❏ delvn
+┆❏ delzip
+┆❏ delapk
+┆❏ delpdf
+┆❏ listvideo
+┆❏ listimage
+┆❏ liststicker
+┆❏ listvn
+┆❏ listzip
+┆❏ listapk
+┆❏ listpdf
+╰–––––––––––––––༓
+╭––『 ᴅᴏᴡɴ ᴍᴇɴᴜ 』
+┆❏ play
+┆❏ ytmp3
+┆❏ ytmp4
+┆❏ sound1 - sound161
+╰–––––––––––––––༓`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
