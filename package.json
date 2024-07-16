@@ -1,5 +1,5 @@
 {
-    "name": "Venom-2",
+    "name": "TOGE-BUG-MD",
     "version": "6.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,8 +14,8 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
-    "license": "MIT",
+    "author": "toge012345",
+    "license": "Apache-2.0",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
         "@adiwajshing/keyed-db": "^0.2.4",
