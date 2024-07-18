@@ -1,4 +1,4 @@
-**BUG-BOT**
+**BUG-BOT MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo">
@@ -133,7 +133,7 @@ pkg install yarn
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
-cd TOGE-MD
+cd BUG-TOGE-MD
 ```
 ```
 yarn install
