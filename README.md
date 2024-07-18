@@ -176,9 +176,9 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 
 ##
-- ***Star ⭐ My Repo If You Like TOGE-MD.***
-- ***The [TOGE-MD](https://github.com/toge012345/TOGE-MD) is Made Under The [Apache-2.0 license](https://github.com/toge012345/TOGE-MD/blob/main/LICENSE).***
-- ***[Apache-2.0 license](https://github.com/toge012345/TOGE-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
+- ***Star ⭐ My Repo If You Like BUG BOT.***
+- ***The [BUG-TOGE-MD](https://github.com/toge012345/BUG-TOGE-MD) is Made Under The [Apache-2.0 license](https://github.com/toge012345/BUG-TOGE-MD/blob/main/LICENSE).***
+- ***[Apache-2.0 license](https://github.com/toge012345/BUG-TOGE-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
@@ -190,5 +190,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
+
+
 - ***Credit : [DGXeon](https://github.com/DGXeon)***
-##
+
